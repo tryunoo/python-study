@@ -1,19 +1,7 @@
 ## Index
 
 
-[:contents]
 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ad1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5634140305449664"
-     data-ad-slot="5763163158"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## 1. はじめに
 PyQueryは、HTML をJQueryライクに扱えるようにするライブラリである。  

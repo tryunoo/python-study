@@ -1,17 +1,6 @@
 ## Index
 
-[:contents]
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5634140305449664"
-     data-ad-slot="3588425951"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## 1. はじめに
 [Django](http://djangoproject.jp/about/)は、Python用のフルスタックWebフレームワークであり、データベース操作やユーザ認証、セッション管理などのWebアプリケーション開発に必要な機能を簡単に実装できるように提供している。  
@@ -207,6 +196,3 @@ http://python.zombie-hunting-club.com/index#Web
 - http://djangoproject.jp/
 - https://docs.djangoproject.com/ja/1.11/intro/
 
-## 書籍
-
-[asin:B00P8DQZY4:detail]

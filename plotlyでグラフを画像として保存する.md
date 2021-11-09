@@ -1,7 +1,6 @@
 ## Index
 
 
-[:contents]
 
 
 

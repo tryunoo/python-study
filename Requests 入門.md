@@ -1,17 +1,6 @@
 ## Index
 
-[:contents]
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5634140305449664"
-     data-ad-slot="3588425951"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## 1. はじめに
 pythonのRequestsを使えば、簡単にHTTPリクエストを作成することができる。  
